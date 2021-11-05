@@ -19,6 +19,14 @@ export default {
       },
     },
     {
+      name: 'image',
+      title: 'Image',
+      type: 'image',
+      options: {
+        hotspot: true,
+      },
+    },
+    {
       name: 'bio',
       title: 'Bio',
       type: 'array',
